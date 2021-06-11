@@ -14,5 +14,5 @@ Recruitment Application:
 	Database:
 		automate_recruitment
 	Tables:
-		cba_admin
-		cba_employee		
+		admin
+		employee		
